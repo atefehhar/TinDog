@@ -172,6 +172,7 @@ font-family: "Montserrat-light";
     }
     .title-image{
         position: static;
+        text-align:center;
         transform:rotate(0);
         width: 60%;
     }
